@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "477480695529",
+    "project_id": "apptohelpme-dev-db",
+    "storage_bucket": "apptohelpme-dev-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477480695529:android:52f13555a5eee72d022278",
+        "android_client_info": {
+          "package_name": "me.apptohelp.split.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477480695529-uatvqsv4dk4bgqfrk0rub04q1i5783al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWphW7H7sI_Tht-8vPWJoQRMkigM7RrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477480695529-uatvqsv4dk4bgqfrk0rub04q1i5783al.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477480695529-pngo7pb7o86nr6n519n21m3a1c1qs4p1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.apptohelp.split.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
